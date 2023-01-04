@@ -1,3 +1,2 @@
 def copy_list(list):
-    return list[:]
-
+    return (list.copy())
